@@ -127,3 +127,25 @@ Header
 /*-----------------
 About
 ------------------*/
+#about {
+  background: url('../img/about-bg.png') fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+  height: 440px;
+}
+
+#about h3 {
+  font-weight: 100;
+  letter-spacing: 3px;
+}
+
+#about h4 {
+  font-weight: 300;
+  padding: 0 20%;
+}
+
+/*-----------------
+Services
+------------------*/
