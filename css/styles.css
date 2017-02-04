@@ -1,0 +1,71 @@
+/*-- General Styles --*/
+body {
+  font-family: Lato, sans-serif;
+  color: #111;
+  position: relative;
+  overflow-x: hidden;
+}
+
+::selection {
+  background: #873fb5;
+  color: #fff;
+}
+
+::-moz-selection {
+  background-color: #873fb5;
+  color: #fff;
+}
+
+strong {
+  font-weight: 900;
+}
+
+p {
+  line-height: 1.5;
+}
+
+a,
+a:focus {
+  color: #873fb5;
+}
+
+a:hover {
+  color: #41135f;
+  text-decoration: none;
+}
+
+section {
+  padding: 50px 0;
+}
+
+hr {
+  width: 85px;
+}
+
+/*-- Star icon in section headings --*/
+hr.icon:after {
+  font-family: FontAwesome;
+  content: "\f123";
+  color: #873fb5;
+  font-size: 1.5em;
+  background-color: #fff;
+  position: relative;
+  top: -0.7em;
+  padding: 0.3em;
+}
+
+/*-- Sectio Heading --*/
+.section-heading {
+  color: #873fb5;
+}
+
+.section-heading h3 {
+  font-weight: 300;
+  letter-spacing: 3px;
+}
+
+.section-heading hr {
+  border-color: #873fb5;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
