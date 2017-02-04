@@ -319,3 +319,52 @@ Portfolio
 /*-----------------
 Stats
 ------------------*/
+.stat {
+  height: 230px;
+  color: #fff;
+}
+
+.stat .fa {
+  font-size: 48px;
+}
+
+.stat h2 {
+  margin-top: 10px;
+}
+
+.stat h4 {
+  font-weight: 300;
+  margin-top: -5px;
+}
+
+.codes {
+  background: url('../img/code-bg.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  -webkit-background-size: cover;
+}
+
+.projects {
+  background: url('../img/projects-bg.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  -webkit-background-size: cover;
+}
+
+.clients {
+  background: url('../img/clients-bg.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  -webkit-background-size: cover;
+}
+
+.feedback {
+  background: url('../img/feedback-bg.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  -webkit-background-size: cover;
+}
