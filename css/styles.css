@@ -1,4 +1,6 @@
-/*-- General Styles --*/
+/*----------------
+General Styles
+-----------------*/
 body {
   font-family: Lato, sans-serif;
   color: #111;
@@ -6,6 +8,14 @@ body {
   overflow-x: hidden;
 }
 
+/* class to vertically align div within div */
+.vertical-align {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/* highlighted text */
 ::selection {
   background: #873fb5;
   color: #fff;
@@ -69,3 +79,51 @@ hr.icon:after {
   margin-top: 30px;
   margin-bottom: 40px;
 }
+
+/*-----------------
+Header
+------------------*/
+#home {
+  background: url('../img/header-bg.png') fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+  height: 600px;
+}
+
+.logo {
+  font-size: 72px;
+  font-weight: 100;
+  border-top: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  display: inline-block;
+  padding: 0 20px 15px;
+}
+
+#home h3 {
+  font-weight: 300;
+  margin: 0;
+}
+
+.learn-more {
+  color: white;
+  font-size: 30px;
+  position: absolute;
+}
+
+.learn-more .fa {
+  position: absolute;
+}
+
+.learn-more .arrow2 {
+  top: 8px;
+}
+
+.learn-more .arrow3 {
+  top: 16px;
+}
+
+/*-----------------
+About
+------------------*/
