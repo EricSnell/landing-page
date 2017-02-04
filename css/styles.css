@@ -149,3 +149,39 @@ About
 /*-----------------
 Services
 ------------------*/
+.service-item {
+  margin-bottom: 40px;
+}
+
+.service-item header {
+  margin-bottom: 8px;
+}
+
+.service-item .fa {
+  font-size: 48px;
+  color: #c1c1c1;
+  padding-right: 15px;
+  border-right: 1px solid #873fb5;
+  float: left;
+}
+
+.service-title {
+  margin-top: -24px;
+  margin-left: 15px;
+  display: inline-block;
+}
+
+.service-title h3 {
+  color: #111;
+  font-weight: 900;
+}
+
+.service-title h4 {
+  font-weight: 300;
+  margin-top: -10px;
+  color: #873fb5;
+}
+
+/*-----------------
+Services
+------------------*/
