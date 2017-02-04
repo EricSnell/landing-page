@@ -52,7 +52,7 @@ hr {
   width: 85px;
 }
 
-/*-- Star icon in section headings --*/
+/* star icon in section headings */
 hr.icon:after {
   font-family: FontAwesome;
   content: "\f123";
@@ -64,7 +64,7 @@ hr.icon:after {
   padding: 0.3em;
 }
 
-/*-- Sectio Heading --*/
+/* section heading */
 .section-heading {
   color: #873fb5;
 }
@@ -79,6 +79,7 @@ hr.icon:after {
   margin-top: 30px;
   margin-bottom: 40px;
 }
+
 
 /*-----------------
 Header
@@ -124,6 +125,7 @@ Header
   top: 16px;
 }
 
+
 /*-----------------
 About
 ------------------*/
@@ -145,6 +147,7 @@ About
   font-weight: 300;
   padding: 0 20%;
 }
+
 
 /*-----------------
 Services
@@ -182,6 +185,71 @@ Services
   color: #873fb5;
 }
 
+
 /*-----------------
-Services
+Skills
+------------------*/
+#skills {
+  background: url('../img/skills-bg.png') fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
+
+#skilss h1 {
+  font-size: 48px;
+}
+
+#skills h3 {
+  font-weight: 300;
+  margin-top: 0;
+}
+
+#skills p {
+  font-weight: 300;
+  margin: 40px 0;
+}
+
+.button {
+  color: white;
+  font-size: 16px;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #fff;
+  border-radius: 2px;
+}
+
+.button:hover {
+  border-color: #873fb5;
+}
+
+#skills .button:last-child {
+  margin-left: 20px;
+}
+
+.progress {
+  height: 30px;
+  margin-bottom: 30px;
+  opacity: .78;
+  background-color: #000;
+  box-shadow: none;
+}
+
+.progress-bar {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#773a93+0,8d4563+100 */
+  background: #773a93; /* Old browsers */
+  background: -moz-linear-gradient(left,  #773a93 0%, #8d4563 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(left,  #773a93 0%,#8d4563 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to right,  #773a93 0%,#8d4563 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#773a93', endColorstr='#8d4563',GradientType=1 ); /* IE6-9 */
+}
+
+.progress-bars h5 {
+  font-weight: 900;
+}
+
+
+/*-----------------
+Portfolio
 ------------------*/
