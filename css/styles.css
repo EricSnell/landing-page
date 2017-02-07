@@ -368,3 +368,22 @@ Stats
   background-size: cover;
   -webkit-background-size: cover;
 }
+
+
+/*-----------------
+Testimonial
+------------------*/
+#testimonial {
+  background: url('../img/testimonial-bg.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+  height: 400px;
+  margin-top: 60px;
+}
+
+#testimonial p {
+  font-weight: 300;
+  padding: 0 20%;
+}
