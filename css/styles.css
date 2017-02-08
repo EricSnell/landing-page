@@ -480,3 +480,19 @@ Footer
   padding: 5px 0;
   color: #9e9ba1;
 }
+
+
+/*-----------------
+Media Queries
+------------------*/
+@media (max-width: 767px) {
+
+  .progress-bars {
+    margin-top: 30px;
+  }
+
+  .google-map {
+    margin-top: 20px;
+  }
+
+}
