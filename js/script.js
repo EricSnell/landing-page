@@ -1,5 +1,7 @@
 $(document).ready(function() {
 
+  new WOW().init();
+
   $('#owl-demo').owlCarousel({
     items: 1,
     mouseDrag: true,
@@ -8,7 +10,7 @@ $(document).ready(function() {
   });
 
   $('.counter').counterUp({
-    delay: 10,
+    delay: 3,
     time: 1000
   });
 
