@@ -384,9 +384,30 @@ Testimonial
   position: relative;
 }
 
-#testimonial p {
+.owl-carousel h4 {
   font-weight: 300;
-  padding: 0 20%;
+}
+
+.owl-carousel cite {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: 900;
+}
+
+.owl-carousel img {
+  width: 80px;
+  height: 80px;
+  border-radius: 5px;
+  margin: 20px;
+}
+
+.owl-carousel p {
+  font-weight: 300;
+  padding: 0 10%;
+}
+
+.owl-carousel blockquote {
+  border-left: none;
 }
 
 
