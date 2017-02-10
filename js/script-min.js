@@ -1,0 +1,1 @@
+$(document).ready(function(){(new WOW).init(),$("#owl-demo").owlCarousel({items:1,mouseDrag:!0,autoplay:!0,loop:!0}),$(".counter").counterUp({delay:3,time:1e3})});
