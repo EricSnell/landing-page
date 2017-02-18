@@ -9,18 +9,9 @@ $gray: #8c8c8c
 /* MIXINS */
 
 // mixin for section backgrounds
-=section-background( $url, $repeat, $position, $size, $font-color )
-  background: url($url) fixed
-  background-repeat: $repeat
-  background-position: $position
-  background-size: $size
-  -webkit-background-size: $size
-  color: $font-color
-
-// mixin for stats backgrounds
-=stats-background( $url, $repeat, $position, $size )
-  background: url($url) fixed
-  background-repeat: $repeat
-  background-position: $position
-  background-size: $size
-  -webkit-background-size: $size
+=background( $url )
+  background: $url
+  background-repeat: no-repeat
+  background-position: center
+  background-size: cover
+  -webkit-background-size: cover
