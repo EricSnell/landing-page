@@ -1,0 +1,40 @@
+/* GLOBAL VARIABLES */
+/* MIXINS */
+/* PLUGINS */
+/* BASE */
+body {
+  font-family: Lato, sans-serif;
+  color: #111;
+  position: relative;
+  overflow-x: hidden; }
+
+::selection {
+  background: #793a93;
+  color: #fff; }
+
+::-moz-selection {
+  background: #793a93;
+  color: #fff; }
+
+strong {
+  font-weight: 900; }
+
+p {
+  line-height: 1.5; }
+
+a,
+a:focus {
+  color: #793a93; }
+
+a:hover {
+  color: #41135f;
+  text-decoration: none; }
+
+section {
+  padding: 50px 0; }
+
+hr {
+  width: 85px; }
+
+/* LAYOUTS */
+/* MODULES */
