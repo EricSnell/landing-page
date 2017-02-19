@@ -19,16 +19,6 @@
 		"oF": 0,
 		"oS": 0
 		},
-	"\/css\/app.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/app-min.css",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/css\/featherlight.min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -56,6 +46,16 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/css\/owl.theme.default.min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/css\/styles-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/styles-min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
@@ -297,6 +297,126 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/sass\/.sass-cache\/6a2cec25eda050f776e1b05cb718555210301203\/_base-dir.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/6a2cec25eda050f776e1b05cb718555210301203\/_base-dir.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/6a2cec25eda050f776e1b05cb718555210301203\/_base.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/6a2cec25eda050f776e1b05cb718555210301203\/_base.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/6a2cec25eda050f776e1b05cb718555210301203\/_media-queries.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/6a2cec25eda050f776e1b05cb718555210301203\/_media-queries.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_about.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_about.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_footer.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_footer.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_header.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_header.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_layouts-dir.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_layouts-dir.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_portfolio.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_portfolio.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_sections.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_sections.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_services.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_services.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_skills.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_skills.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_stats.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_stats.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_testimonial.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/6dad3834899b5e5ccfa6db641616a7617ba06bc0\/_testimonial.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/6f96042438c7bff18d4176a6a0d9e960daa3717c\/_plugins-dir.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/6f96042438c7bff18d4176a6a0d9e960daa3717c\/_plugins-dir.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/715cbf30c2c17a59257c7728d2e9319f328b7155\/_buttons.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/715cbf30c2c17a59257c7728d2e9319f328b7155\/_buttons.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/715cbf30c2c17a59257c7728d2e9319f328b7155\/_client-carousel.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/715cbf30c2c17a59257c7728d2e9319f328b7155\/_client-carousel.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/715cbf30c2c17a59257c7728d2e9319f328b7155\/_contact-form.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/715cbf30c2c17a59257c7728d2e9319f328b7155\/_contact-form.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/715cbf30c2c17a59257c7728d2e9319f328b7155\/_modules-dir.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/715cbf30c2c17a59257c7728d2e9319f328b7155\/_modules-dir.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/b8700d631cfe1e25b12e6feb42649f74eb49b2e6\/_variables.sassc": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/sass\/.sass-cache\/b8700d631cfe1e25b12e6feb42649f74eb49b2e6\/_variables.sassc",
+		"oF": 0
+		},
+	"\/sass\/.sass-cache\/b8700d631cfe1e25b12e6feb42649f74eb49b2e6\/styles.sassc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/sass\/.sass-cache\/b8700d631cfe1e25b12e6feb42649f74eb49b2e6\/styles.sassc",
+		"oF": 0
 		},
 	"\/sass\/0-plugins\/_plugins-dir.sass": {
 		"aP": 0,
