@@ -19,6 +19,16 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/css\/app.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/app-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/css\/featherlight.min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -48,26 +58,6 @@
 		"oAP": "\/css\/owl.theme.default.min-min.css",
 		"oF": 0,
 		"oS": 0
-		},
-	"\/css\/styles-min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/styles-min-min.css",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/css\/styles.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/styles-min.css",
-		"oF": 0,
-		"oS": 3
 		},
 	"\/img\/about-bg.png": {
 		"ft": 32768,
@@ -566,17 +556,17 @@
 		"oS": 0
 		},
 	"\/sass\/styles.sass": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 2,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/sass\/styles.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
+		"oAP": "\/css\/styles-min.css",
+		"oF": 2,
+		"oS": 3,
+		"uL": 0
 		}
 	},
 "hooks": [
